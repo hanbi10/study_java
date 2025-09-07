@@ -35,5 +35,6 @@ public class Ex4 {
         }
         System.out.println(evenSum);
         System.out.println(oddSum);
+        System.out.println(evenSum == oddSum);
     }
 }
